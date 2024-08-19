@@ -48,7 +48,4 @@ To use the Caesar Cipher program, follow these steps:
 
 4. Choose whether to encrypt or decrypt the message.
 
-## Examples
 
-### Encryption
-Input:
