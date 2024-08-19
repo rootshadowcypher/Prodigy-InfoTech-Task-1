@@ -26,7 +26,7 @@ To run this program, you'll need Python installed on your system. You can downlo
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/rootshadowcypher/caesar-cipher.git
+    https://github.com/rootshadowcypher/Prodigy-InfoTech-Task-1.git
     ```
 2. Navigate to the project directory:
     ```bash
